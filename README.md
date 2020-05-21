@@ -17,7 +17,7 @@
 <li><p>To edit the pass.txt, we will be using the nano editor that we just installed. Type: “nano pass.txt”.</p></li>
 <li><p>Below you will see a small list of passwords that comes with it by default, you can now add as many words as possible for it to run against the target. You could use cupp.py to custom build password lists.</p></li>
 </ol>
-<p>16)When you are done , press alt x, yes, enter. For those using samsung s8+ like myself, the alt button is replaced on ur phone as the volume down button. Press on to the volume down button and press x at the same time.</p>
+<p>16)When you are done , press ctrl+o tosave, than ckick ctrl+x to return command,y press(to edit save change).</p>
 <ol>
 <li><p>And now for the final installation, type : “pip install requests”.</p></li>
 <li><p>We are ready!! Lets run the script, type: “python hackinsta.py” .</p></li>
