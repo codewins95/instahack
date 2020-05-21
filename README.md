@@ -1,12 +1,12 @@
 # instahack
 
-
+<ol>
 <li><p>Load up your android device.</p></li>
 <li><p>Next click on your playstore app and search for “Termux” &amp; install it.</p></li>
 <li><p>Open Termux app and type: “pkg install git”.</p></li>
 <li><p>To update available packages type: “pkg update”.</p></li>
 <li><p>Lets install python by typing ” pkg install python”</p></li>
-<li><p>We will need to download the tool we will be using for this bruteforce exercise. To download, on your terminal…type: “git clone <a href="https://github.com/avramit/instahack" rel="nofollow noopener" title="This link will take you away from steemit.com">https://github.com/manish05s/instahack</a></p></li>
+<li><p>We will need to download the tool we will be using for this bruteforce exercise. To download, on your terminal…type: “git clone <a href="https://github.com/avramit/instahack" rel="nofollow noopener" title="This link will take you away from steemit.com">https://github.com/manish05s/instahack.git</a></p></li>
 <li><p>Once the download is complete, type: “ls” to list the available folders/files in current directory</p></li>
 <li><p>As you can see you have a folder call “instahack”, now make your way into that folder by typing “cd instahack”.</p></li>
 <li><p>Type: “ls” to list the available files.</p></li>
