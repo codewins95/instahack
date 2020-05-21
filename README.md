@@ -1,4 +1,4 @@
-# instahack
+# Instagram Hacking Script by Bruteforce in Termux
 
 <ol>
 <li><p>Load up your android device.</p></li>
@@ -11,7 +11,7 @@
 <li><p>As you can see you have a folder call “instahack”, now make your way into that folder by typing “cd instahack”.</p></li>
 <li><p>Type: “ls” to list the available files.</p></li>
 <li><p>Ok we are nearly there. Next lets install an editor so we can edit the password file. To install nano, type : “pkg install nano” .</p></li>
-<li><p>Ok lets stop for a second. Now allow me to explain a few things for the beginners. As the article said , this is a bruteforce method. So whats a bruteforce method? A bruteforce method is when the target credentials are ran against a list of possible passwords. The only thing about bruteforcing is that you are responsible for the strength of your own password list. Meaning the probability of cracking the password depends on the strength of the wordlist and the amount of possible words we put in. This will take time to build or you can use cupp.py to custom make a wordlist.</p></li>
+
 <li><p>Fine so lets edit our password list. In instahack directory, type: ls.</p></li>
 <li><p>As you can see there is a file named pass.txt. This is the file that you will need to place all the possible passwords in.</p></li>
 <li><p>To edit the pass.txt, we will be using the nano editor that we just installed. Type: “nano pass.txt”.</p></li>
